@@ -1,1 +1,1 @@
-# Titanic Survival Model created with another full year of education
+# Titanic Survival Model, which uses different machine learning algorithms to predict which people were likely to survive the Titanic crash; looks at factors such as age, gender, fare, cabin class, etc. 
